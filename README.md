@@ -50,3 +50,8 @@ To test the system:
 This project replicates real-world applications such as smart home lighting, IoT-based control systems, and assistive technologies for the elderly or disabled, who can use voice commands instead of physical switches.
 
 In conclusion, this speech-recognition-based light control system demonstrates how embedded systems can be programmed to respond to simple digital signals representing voice commands. While actual speech recognition hardware is not used in this simulation, it lays the groundwork for implementing more advanced smart home automation systems using Arduino and external voice recognition modules.
+
+
+*OUTPUT*:
+
+<img width="1366" height="501" alt="Image" src="https://github.com/user-attachments/assets/8d7ed691-4a7a-44d0-aa1b-db4d9617a4fd" />
